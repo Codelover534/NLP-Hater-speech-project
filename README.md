@@ -1,5 +1,14 @@
 # NLP-Hater-speech-project
 
+## Project Workflow
+
+-constant
+-config_entity
+-artifact_entity
+-components
+-pipeline
+-app.py
+
 ## How to run?
 
 ```bash
